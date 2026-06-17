@@ -9,8 +9,6 @@ export default function ExpenseList({ expenses, onDeleteExpense }) {
 
   // Check if there are no expenses in the array.
   if (expenses.length === 0) {
-
-    // If array is empty, show this message.
     return (
       <p className="no-expenses">
         No expenses added yet.
