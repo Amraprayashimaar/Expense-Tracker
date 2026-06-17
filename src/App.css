@@ -19,8 +19,8 @@
     }
     .expense-form input {
         flex: 1;
-        padding: 10px;
-        border: 1px solid #ccc;
+        padding: 18px;
+        border: 2px solid #ccc;
         border-radius: 2px;
     }
     .expense-form button {
